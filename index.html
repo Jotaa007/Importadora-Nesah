@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Importadora Nesah</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" href="./css/main.css">
+    <style>
+        #nosotros-seccion {
+            display: none; /* Ocultar por defecto */
+        }
+    </style>
+</head>
+<body>
+    <div class="wrapper">
+        <header class="header-mobile">
+            <h1 class="logo">Importadora Nesah</h1>
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <img src="/img/nesah-transformed.jpg" alt="" class="logo">
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active"><i class="bi bi-hand-index-thumb-fill"></i> Todo el Catálogo</button>
+                    </li>
+                    <li>
+                        <button id="abrigos" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Bandejas</button>
+                    </li>
+                    <li>
+                        <button id="camisetas" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Desechables</button>
+                    </li>
+                    <li>
+                        <button id="pantalones" class="boton-menu boton-categoria"><i class="bi bi-hand-index-thumb"></i> Otros</button>
+                    </li>
+                    <li>
+                        <a class="boton-menu boton-carrito" href="./carrito.html">
+                            <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                        </a>
+                    </li>
+                    <!-- Nueva categoría "Nosotros" -->
+                    <li>
+                        <button id="nosotros" class="boton-menu boton-categoria"><i class="bi bi-info-circle"></i> Nosotros</button>
+                    </li>
+                    <li>
+                        <button id="contacto" class="boton-menu boton-categoria">
+                            <i class="bi bi-envelope"></i> Contacto
+                        </button>
+                    </li>
+                </ul>
+            </nav>
+            <footer>
+                <p class="texto-footer">©2024 Importadora Nesah.</p>
+            </footer>
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Catálogo</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+            </div>
+            
+            <!-- Nueva sección "Nosotros" -->
+            <section id="nosotros-seccion">
+                <h2 class="nsh2">Nosotros</h2>
+                <p class="nsp">En nuestra empresa, nos dedicamos a ofrecer productos desechables de alta calidad, adaptados a las necesidades tanto de clientes mayoristas como minoristas. Nuestro compromiso es brindar soluciones prácticas, confiables y accesibles para facilitar los proyectos de nuestros clientes, ya sea para negocios, eventos o uso personal.</p>
+                <p class="nsp2">Contamos con un servicio de envíos eficiente, garantizando que tus pedidos lleguen a tiempo y en perfectas condiciones. Nos enorgullece proporcionar un servicio cercano, personalizado y enfocado en la satisfacción de cada cliente.</p>
+                <h2 class="nsh2">Nuestra Misión</h2>
+                <p class="nsp">Nuestra misión es ofrecer productos desechables de calidad que satisfagan las necesidades de nuestros clientes mayoristas y minoristas. Nos esforzamos por proporcionar soluciones prácticas y un servicio ágil, confiable y accesible. Trabajamos con el compromiso de garantizar la satisfacción de cada cliente, asegurándonos de que reciban productos que se adapten a sus necesidades y proyectos.</p>
+            </section>
+
+        </main>
+    </div>
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/menu.js"></script>
+    <script src="./js/nosotros.js"></script>
+</body>
+</html>
