@@ -1,0 +1,402 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Bandeja de Aluminio 2L y 1/2",
+        "imagen": "./img/abrigos/2ymedia.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 3.99
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Bandeja de Aluminio Ovalada Mediana",
+        "imagen": "./img/abrigos/bndjoval.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 11.99
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Bandeja de Cartón 1L PAQ de 50 UND",
+        "imagen": "./img/abrigos/bndjcart1L.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 17.99
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Bandeja de Aluminio 5L",
+        "imagen": "./img/abrigos/cincobndj.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 9.99
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Bandeja de Aluminio 1L y 1/2",
+        "imagen": "./img/abrigos/ymediabndj.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 2.99
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Bandeja de Aluminio 1L",
+        "imagen": "./img/abrigos/una.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 1.99
+    },
+    {
+        "id": "abrigo-07",
+        "titulo": "Bandeja de HotDog PAQ de 10 UND",
+        "imagen": "./img/abrigos/bndjhotdog.jpg",
+        "categoria": {
+            "nombre": "Abrigos",
+            "id": "abrigos"
+        },
+        "precio": 19.99
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Contenedor 42 ONZ",
+        "imagen": "./img/camisetas/cont42onz.png",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1.99
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Cuchara Biodegradable PAQ de 40 UND",
+        "imagen": "./img/camisetas/cucharabio.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3.49
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Cuchillo Negro de Plástico PAQ de 40 UND",
+        "imagen": "./img/camisetas/cuchillo-de-plastico-negro.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 5.99
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Cuchillos Transparente PAQ de 50 UND",
+        "imagen": "./img/camisetas/cuchtransp.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 6.99
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Portavasos de 4 cavidades de cartón",
+        "imagen": "./img/camisetas/portvas4.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 1.25
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Caja de papas mediana PAQ de 20 UND",
+        "imagen": "./img/camisetas/papasmed.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 59.99
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Caja de papas pequeña PAQ de 20 UND",
+        "imagen": "./img/camisetas/papaspeq.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 34.99
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Pinchos de Madera Mediano 25cm",
+        "imagen": "./img/camisetas/pinchosmed.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 4.99
+    },
+    {
+        "id": "camiseta-09",
+        "titulo": "Platos ovalados hondos PAQ de 10 UND",
+        "imagen": "./img/camisetas/platoshondo.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 6.99
+    },
+    {
+        "id": "camiseta-10",
+        "titulo": "Removedores de Café de madera PAQ de 36 UND",
+        "imagen": "./img/camisetas/removedorcafe.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 9.99
+    },
+    {
+        "id": "camiseta-11",
+        "titulo": "Removedores de Café negro PAQ de 36 UND",
+        "imagen": "./img/camisetas/removedorcafeneg.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 9.99
+    },
+    {
+        "id": "camiseta-12",
+        "titulo": "Servilleta ROYAL color blanco X10",
+        "imagen": "./img/camisetas/serv.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3.49
+    },
+    {
+        "id": "camiseta-13",
+        "titulo": "Servilletas Café ROYAL PAQ de 10 UND",
+        "imagen": "./img/camisetas/servacf.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3.49
+    },
+    {
+        "id": "camiseta-14",
+        "titulo": "Tapa para Bandeja de alumnio  de 5L",
+        "imagen": "./img/camisetas/tapa.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3.99
+    },
+    {
+        "id": "camiseta-15",
+        "titulo": "Tenedores Transparentes PAQ de 50 UND",
+        "imagen": "./img/camisetas/tenedorescristal.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 6.99
+    },
+    {
+        "id": "camiseta-16",
+        "titulo": "Tenedor Biodegradable PAQ de 40 UND",
+        "imagen": "./img/camisetas/tenedoresbio.jpg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 3.49
+    },
+    {
+        "id": "camiseta-17",
+        "titulo": "Vaso Domo de 12 ONZ PAQ de 20 UND",
+        "imagen": "./img/camisetas/vaso12onz.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "camisetas"
+        },
+        "precio": 44.99
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Suplemento ArtriKing con diferentes vitaminas",
+        "imagen": "./img/pantalones/artriking.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 49.99
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Sobres de Azúcar PAQ de 20 UND",
+        "imagen": "./img/pantalones/Azucar.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 7.55
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Sal Refinada en Sobres PAQ de 40 UND",
+        "imagen": "./img/pantalones/salref.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 5.99
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Cortinas Decoradas (Diferentes Colores)",
+        "imagen": "./img/pantalones/cortinas.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 12.65
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Esponjas Verdes PAQ de 10 UND",
+        "imagen": "./img/pantalones/esponja.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 9.99
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Extol Premium Mata Virus y Bacterias 300ml",
+        "imagen": "./img/pantalones/extol.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 11.99
+    },
+    {
+        "id": "pantalon-07",
+        "titulo": "Jabón Fresh Hotel PAQ de 35 UND",
+        "imagen": "./img/pantalones/fresh.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 16.99
+    },
+    {
+        "id": "pantalon-08",
+        "titulo": "Galón de Alcohol Etílico 70% CLEAN",
+        "imagen": "./img/pantalones/galalcohol.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 19.99
+    },
+    {
+        "id": "pantalon-09",
+        "titulo": "Galón de Cloro CLEAN",
+        "imagen": "./img/pantalones/galcloro.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 29.99
+    },
+    {
+        "id": "pantalon-10",
+        "titulo": "Globos Decorados PAQ de 100 UND",
+        "imagen": "./img/pantalones/glob.jpeg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 24.99
+    },
+    {
+        "id": "pantalon-11",
+        "titulo": "Globos Party de 14 piezas (diferentes colores)",
+        "imagen": "./img/pantalones/glob14pcs.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 24.99
+    },
+    {
+        "id": "pantalon-12",
+        "titulo": "Bolsa de Globos de un solo color 100 UND",
+        "imagen": "./img/pantalones/globb100.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 29.99
+    },
+    {
+        "id": "pantalon-13",
+        "titulo": "Bolsa de Globos de varios colores 100 UND",
+        "imagen": "./img/pantalones/glob100.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 29.99
+    },
+    {
+        "id": "pantalon-14",
+        "titulo": "Globos en forma de letras celeste",
+        "imagen": "./img/pantalones/globletraceles.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 22.49
+    },
+    {
+        "id": "pantalon-15",
+        "titulo": "Globos con forma de número foil balloon",
+        "imagen": "./img/pantalones/globnum.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 9.99
+    },
+    {
+        "id": "pantalon-16",
+        "titulo": "Globos Metálicos de Cumpleaños Grande",
+        "imagen": "./img/pantalones/globos.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 3.99
+    }
+]
